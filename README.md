@@ -2,10 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Release](https://img.shields.io/badge/release-1.0.1-orange)](https://github.com/tuo-username/convertitore-csv-xlsx/releases)
-[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube)](https://www.youtube.com/@AngoloInformatico)
 
----
 
 ## 🔹 Descrizione
 
@@ -42,7 +39,7 @@ pip install customtkinter pandas
 ### Clonare il repository
 
 ```bash
-git clone https://github.com/tuo-username/convertitore-csv-xlsx.git
+git clone https://github.com/AlexMyfile/convertitore-csv-xlsx.git
 cd convertitore-csv-xlsx
 ```
 
