@@ -53,8 +53,8 @@ class CSVtoXLSXApp(customtkinter.CTk):
         self.copyright_label_2.bind("<Button-1>", self._open_link_2)  # Definisci _open_link_2
 
         self.csv_filepath = None
-        self.url_1 = "https://www.youtube.com/@AngoloInformatico"  # Sostituisci con il tuo URL
-        self.url_2 = "https://www.youtube.com/@AngoloInformatico"  # Sostituisci con il tuo URL
+        self.url_1 = "https://www.youtube.com/@AngoloInformatico"  # Canale YouTube
+        self.url_2 = "https://www.youtube.com/@AngoloInformatico"  # Canale YouTube
 
     def select_csv(self):
         self.csv_filepath = filedialog.askopenfilename(
@@ -132,4 +132,5 @@ class CSVtoXLSXApp(customtkinter.CTk):
 
 if __name__ == "__main__":
     app = CSVtoXLSXApp()
+
     app.mainloop()
