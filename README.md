@@ -89,7 +89,7 @@ subprocess.run(['xdg-open', filepath], check=True)
 
 ## 📄 Licenza
 
-Rilasciato sotto licenza **MIT**. Vedi il file [LICENSE](LICENSE) per i dettagli.
+Rilasciato sotto licenza **GNU General Public License v3.0**. Vedi il file [LICENSE](LICENSE) per i dettagli.
 
 ---
 
