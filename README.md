@@ -18,9 +18,7 @@ Ideale per chi vuole gestire dati in CSV e trasformarli rapidamente in Excel sen
 ---
 
 ## ▶️ Clicca sulla Miniatura per visualizzare il video su YouTube
-<a href="https://youtu.be/0u1OwQBRUwc?si=9ZRpUZpufJcA4iNl" target="_blank">
-  <img src="https://raw.githubusercontent.com/AngoloInformatico/Csv_to_xlsx_Converter/main/CSV%20TO%20XLXS.png" alt="Miniatura video" width="400" height="300">
-</a>
+<a href="https://youtu.be/0u1OwQBRUwc?si=9ZRpUZpufJcA4iNl" target="_blank"><img src="https://raw.githubusercontent.com/AngoloInformatico/Csv_to_xlsx_Converter/main/CSV%20TO%20XLXS.png" alt="Miniatura video" width="400" height="300"></a>
 
 ## ⚙️ Requisiti
 
