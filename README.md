@@ -3,6 +3,10 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+<a href="https://youtu.be/0u1OwQBRUwc?si=9ZRpUZpufJcA4iNl" target="_blank">
+  Clicca qui per il video su YouTube
+</a>
+
 
 ## 🔹 Descrizione
 
